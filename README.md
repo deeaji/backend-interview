@@ -1,5 +1,5 @@
 
-## KUNGFUAI Backend Interview
+## MKS2 Backend Interview
 
 Using the NodeJS application framework NestJS, create a TODO list application that persists the TODOs to a database. 
 
@@ -23,7 +23,7 @@ architecture during the rest of the interview.
 ## Submission Steps
 1. Fork the repo
 2. Perform work on your own repo through said fork.
-3. When the code is ready, and the cloud infrastructure is up, then send your public fork link to Ryman!
+3. When the code is ready, and the cloud infrastructure is up, then send your public fork link to Tanner!
 
 Thank you, and good luck!
 
